@@ -1,0 +1,16 @@
+ul h1{
+    margin: 10%;
+    border: solid 10px rgb(112, 184, 184);
+    text-align: center;
+    padding: 10% 7% 10% 10%;
+}
+ul li ul li{
+border: solid 10px rgb(6, 105, 105);
+text-align: center;
+margin: 15% 15% 15% 10%;
+}
+ul li ul li ul li{
+border: solid 10px cyan;
+text-align: center;
+margin: 20% 7% 20% 15% ;
+}
