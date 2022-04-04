@@ -1,16 +1,16 @@
-ul h1{
-    margin: 10%;
-    border: solid 10px rgb(112, 184, 184);
+ .Box6{
+    border: solid 5px rgb(21, 162, 243);
     text-align: center;
-    padding: 10% 7% 10% 10%;
+    margin: 70px 15px 30px 15px ;
+    padding: 30px;
 }
-ul li ul li{
-border: solid 10px rgb(6, 105, 105);
-text-align: center;
-margin: 15% 15% 15% 10%;
+.Box5 {
+    border: solid 5px rgb(163, 31, 175);
+    margin: 20% 25%;
+    width: 50%;
+    padding: 70px 70px 40px 55px;
 }
-ul li ul li ul li{
-border: solid 10px cyan;
-text-align: center;
-margin: 20% 7% 20% 15% ;
+.Box4 {
+    border: solid 5px rgb(9, 238, 219);
+    margin: 6% 30% 7% 25%;
 }
